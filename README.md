@@ -3,3 +3,5 @@ An implementation of the paper [As-Rigid-As-Possible Surface Morphing.](https://
 [1] Liu, Y. S., Yan, H. B., & Martin, R. R. (2011). As-rigid-as-possible surface morphing. Journal of Computer Science and Technology, 26(3), 548-557.
 
 [2] M. Alexa, D. Cohen-Or, and D. Levin, “As-rigid-as-possible shape interpolation,” in Proceedings of the 27th annual conference on Computer graphics and interactive techniques. ACM Press/Addison-Wesley Publishing Co., 2000, pp. 157–164.
+
+
